@@ -70,7 +70,8 @@ ejercicios
 
 ![image](https://user-images.githubusercontent.com/84783341/179030087-02f6f6c6-a509-4564-a9ab-2b1b875a1722.png)
 
-![image](https://user-images.githubusercontent.com/84783341/179030111-391dfa2f-50df-4107-8225-e69b6482ad81.png)
+![image](https://user-images.githubusercontent.com/84783341/179050958-83b82c7f-5336-491a-99d2-fb9f350ca019.png)
+
 
 12. Cambie los siguientes valores angulares de radianes a grados:
 
