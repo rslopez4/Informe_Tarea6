@@ -33,11 +33,23 @@ Describir la construcción y las características básicas de una capacitador
 
 4.	Analizar circuitos de CD con capacitadores conmutados 
 
+
+
 2.	MARCO TEORICO 
+
+
 ![image](https://user-images.githubusercontent.com/84783341/179025545-58f86438-c74f-4227-b14c-46806d78f23b.png)
+
 ![image](https://user-images.githubusercontent.com/84783341/179025571-7867751f-08e8-4b80-9453-fa1e4c12b420.png)
+
+
+
+
 ejercicios 
+
 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
+
+
 ![image](https://user-images.githubusercontent.com/84783341/179029405-52f11f35-4f28-463f-9ea0-31ad38805ee8.png)
 
 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
